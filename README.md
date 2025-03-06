@@ -2,6 +2,5 @@
 ejercicio de creacion de repositorio
 
 Ariel lo modificó a las 20:37
-Leandro lo modifico a las 20:53
 
-Ariel segunda modificacion 20:55
+Juan puso la fecha 05/03/2025
